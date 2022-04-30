@@ -1,2 +1,7 @@
 bin/
 lib/
+etc/
+*.cfg
+lib64
+share/
+.ipynb_checkpoints/
