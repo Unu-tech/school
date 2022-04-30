@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/unuu-win-linuxsub/school/Data_Science_TSE"
+VIRTUAL_ENV="/home/unuu/school/Data_Science_TSE"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

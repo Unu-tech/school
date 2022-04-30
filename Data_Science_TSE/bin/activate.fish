@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/unuu-win-linuxsub/school/Data_Science_TSE"
+set -gx VIRTUAL_ENV "/home/unuu/school/Data_Science_TSE"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
